@@ -7,4 +7,4 @@ def reverse_string(string):
     return reversed_string
 
 print(reverse_string('HotChips'))
-print(reverse_string("Tenso Processing Unit"))
+print(reverse_string("Hello world!"))
